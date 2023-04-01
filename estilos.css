@@ -1,0 +1,23 @@
+.contentIndex{
+    text-align: center;
+    position: relative;
+}
+.blockquote{
+text-align: center;
+margin-top: 1rem;
+}
+.cunsulta{
+    margin-top: -8px;
+    position: absolute;
+    left: 31rem;
+}
+.campo{
+    width: 30rem;
+    margin-top: 1rem;
+
+}
+.envia{
+    margin-top: 1rem;
+    position: absolute;
+    left: 25rem;
+}
